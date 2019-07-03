@@ -55,7 +55,7 @@ $ sudo apt-get install libupm-dev
 # 3. Building and Running:
 
 ```
-$ git clone https://github.com/96boards/ucsd-coursera.git    
+$ git clone https://github.com/ionSurf/ucsd-coursera    
 $ cd ucsd-coursera	
 $ cd course_2/Module2/Morse_Code/	
 $ make upload reset_stty
